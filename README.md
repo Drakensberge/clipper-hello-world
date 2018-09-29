@@ -1,5 +1,7 @@
 Getting started
 
+This tutorial will help you deploy your first model with http://clipper.ai/
+ 
 You need these requirements:
 ```
 pip install -r requirements.txt
