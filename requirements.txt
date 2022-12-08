@@ -5,7 +5,7 @@ backports.shutil-get-terminal-size==1.0.0
 backports.ssl-match-hostname==3.5.0.1
 bleach==2.1.4
 cachetools==2.1.0
-certifi==2018.4.16
+certifi==2022.12.7
 chardet==3.0.4
 clipper==0.2.0
 clipper-admin==0.2.0
